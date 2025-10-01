@@ -43,3 +43,5 @@ Reference:
 
 I. Doherty, R. Shetty, H. Ni, S. Morotti, E. Grandi. Exploring the mechanisms of sex-specific proarrhythmia in long QT syndromethrough computational modeling. Am J Physiol Heart Circle Physiol. 2025.
 
+DOI: https://doi.org/10.5281/zenodo.17245586
+
